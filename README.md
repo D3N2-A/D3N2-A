@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @D3N2-A
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Bootstrap
+- 🌱 I’m currently learning Jvascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  
 
