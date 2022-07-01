@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @D3N2-A
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Authentication & Security
+- 🌱 I’m currently learning Advanced Js
 - 💞️ I’m looking to collaborate on front-end Project
 - 📫 How to reach me  
 
