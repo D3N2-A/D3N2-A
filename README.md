@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @D3N2-A
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Advanced Js
+- 🌱 I’m currently learning Advanced JavaScript
 - 💞️ I’m looking to collaborate on front-end Project
 - 📫 How to reach me [Anmol Sharma](mailto:anmolsharma999937@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
