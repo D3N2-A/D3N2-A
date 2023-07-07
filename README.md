@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @D3N2-A
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Svelte
+- 🌱 I’m currently learning Svelte <a href='https://github.com/D3N2-A' target="_blank"><img alt='Svelte' src='https://img.shields.io/badge/Svelte-100000?style=flat&logo=Svelte&logoColor=white&labelColor=ff3e00&color=000000'/></a>
 - 💞️ I’m looking to collaborate on front-end Project
 - 📫 How to reach -> [Click Me!](mailto:anmolsharma999937@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
