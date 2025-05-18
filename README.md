@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C7E8CA&vCenter=true&width=435&lines=Welcome+to+my+GitHub+page;Feel+free+to+checkout+my+projects)](https://www.linkedin.com/in/anmol-sharma-691515208)
 
 - 👋 Hi, I’m @D3N2-A
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Software Engineering 
 - 🌱 I’m currently learning AI Agents
 - 💞️ I’m looking to collaborate on front-end Project
 - 📫 How to reach -> [Click Me!](mailto:anmolsharma999937@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
